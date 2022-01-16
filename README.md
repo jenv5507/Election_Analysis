@@ -28,10 +28,12 @@ total_votes = 0
 -   Above is setting up the total votes counter.
    
 candidate_options = []
+
 candidate_votes = {}
 -   Above is setting up the candidates list and the dictonary for the candidate votes.
 
 county_list = []
+
 county_votes = {}
 -   Above is setting up the county list and the dictionary for the county votes.
  
