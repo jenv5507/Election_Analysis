@@ -24,21 +24,16 @@ As you can see from the list above, Denver county had 306,055 votes which was th
  
  To get the totals for the county and the candidates, I setup a counter to gather the total votes.  In addition, I created a county and candidate list along with a dictionary for the county and candidate lists which you can see below.
  
- # Initialize a total vote counter.
 total_votes = 0
-    - Above is setting up the total votes counter.
+-   Above is setting up the total votes counter.
    
-# Candidate Options and candidate votes.
 candidate_options = []
 candidate_votes = {}
-    - Above is setting up the candidates list and the dictonary for the candidate votes.
+-   Above is setting up the candidates list and the dictonary for the candidate votes.
 
-# 1: Create a county list and county votes dictionary.
-#County List
 county_list = []
-#County votes dictionary
 county_votes = {}
-    - Above is setting up the county list and the dictionary for the county votes.
+-   Above is setting up the county list and the dictionary for the county votes.
  
  
  
