@@ -12,12 +12,14 @@ The purpose of this election audit analysis was to provide the results to the el
     - Jefferson county had 38,855 votes or 10.5% of the votes.
     - Denver county had 306,055 votes or 82.8% of the votes.
     - Araphahoe county had the lowest votes coming in at 24,801 or 6.7% of the votes.
+    
 As you can see from the list above, Denver county had 306,055 votes which was the county with the highest votes.
 
 -  Following is a list of the candidates and their total votes and percentage of the total.
     - Charles Casper Stockham had 85,213 votes or 23.0% of the total votes.
     - Diana DeGetter had 272,892 votes or 73.8% of the total votes.
     - Raymon Anthony Doane had the lowest votes coming in at 11,606 or 3.1% of the total votes.
+    
  As you can see from the list above, Diana DeGette won the election with 272,892 votes or 73.8% of the total votes.
  
  **Election-Audit Summary**
