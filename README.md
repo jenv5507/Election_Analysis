@@ -37,11 +37,9 @@ county_list = []
 county_votes = {}
 -   Above is setting up the county list and the dictionary for the county votes.
  
- 
- 
- 
- 
  **Election-Audit Summary**
+ 
+ Going forward, this program can be used for future elections to gather total votes per county and candidates along with determining the winning candidate.  One way that the script could be modified is by including the number of votes each candidate gets from each county.  It would tell another part of the story and what county the candidates are getting the majority of their votes.
  
  
     
