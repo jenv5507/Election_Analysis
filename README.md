@@ -39,7 +39,7 @@ county_votes = {}
  
  **Election-Audit Summary**
  
- Going forward, this program can be used for future elections to gather total votes per county and candidates along with determining the winning candidate.  One way that the script could be modified is by including the number of votes each candidate gets from each county.  It would tell another part of the story and what county the candidates are getting the majority of their votes.
+Going forward, this program can be used for future elections to gather total votes per county and candidates along with determining the winning candidate.  To use for antoher election, you would have to update lines 9 with the file name with the data and line 11 as the name of the file you want to write the results to.  I think it would be interesting to include the number of votes each candidate gets from each county.  To do this, you would have to great another for loop and retreive the county votes per each canddidate.  It would tell another part of the story and what county the candidates are getting the majority of their votes. from. 
  
  
     
